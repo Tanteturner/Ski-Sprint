@@ -4,6 +4,8 @@ Ski Sprint is a skiing game where you control a skier navigating obstacles to tr
 
 You can find the game on [itch.io](https://tanteturner.itch.io/ski-sprint)
 
+If you want to run the Project yourself use Unity version 2022.2.9
+
 ## Credits:
 - Code: Jannis "Tanteturner"
 - Art: [kenney.nl](https://kenney.nl/assets) Licenced under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
