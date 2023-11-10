@@ -1,6 +1,6 @@
 ![image](https://github.com/Tanteturner/Ski-Sprint/assets/48159529/81d229c6-72ee-44b5-8e12-808bda506097)
 
-Ski Sprint a skiing game where you control a skier navigating obstacles to reach the goal and compete for highscores.
+Ski Sprint is a skiing game where you control a skier navigating obstacles to traverse through goals and compete for the highest score.
 
 You can find the game on [itch.io](https://tanteturner.itch.io/ski-sprint)
 
