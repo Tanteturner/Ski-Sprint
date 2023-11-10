@@ -4,10 +4,10 @@ Ski Sprint is a skiing game where you control a skier navigating obstacles to tr
 
 You can find the game on [itch.io](https://tanteturner.itch.io/ski-sprint)
 
-# Credits:
+## Credits:
 - Code: Jannis "Tanteturner"
 - Art: [kenney.nl](https://kenney.nl/assets) Licenced under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 - Sounds: [Kronbits](https://kronbits.itch.io/freesfx) Licenced under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
-# Licence:
+## Licence:
 This project is licenced under the MIT Licence. Feel free to use any part of it for your own projects.
